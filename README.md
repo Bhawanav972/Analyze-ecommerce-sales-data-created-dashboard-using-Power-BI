@@ -1,0 +1,1 @@
+This project analyzes e-commerce sales data to extract meaningful insights and presents them through an interactive Power BI dashboard. The dashboard helps understand sales performance, customer behavior, product trends, and regional sales distribution, enabling data-driven decision-making.
